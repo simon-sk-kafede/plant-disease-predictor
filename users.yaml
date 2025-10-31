@@ -1,0 +1,92 @@
+cookie:
+  expiry_days: 30
+  key: random_key
+  name: authenticator_cookie
+credentials:
+  usernames:
+    Innocent:
+      email: ikaruhanga182@gmail.com
+      name: Karuhanga Innocent
+      password: $2b$12$MP71yeolK1krSCeUCW8a0eML2rGZnBr1dKEPb0f8OaKInRr0Mr566
+    Joy:
+      contact: '0703334567'
+      email: joy@gmail.com
+      name: Nasty
+      password: $2b$12$InmCQeCS.ycj.npmTgbO7OOWW5gbYxF2GSqVuVDBH1pVf0NJ23e46
+    Noah:
+      email: moses@gmail.com
+      name: Noaharikimanya Moses
+      password: $2b$12$fnHQzlzhimzlyvEc.Ga3D.MvUCPEeB1UuHc8jgKZyCPoyuGF1yalu
+    SK:
+      contact: 0785432134
+      email: sk@gmail.com
+      name: mike sk
+      password: $2b$12$tdMpvYOMLP1EW58Z2PWAieZBhzetDdr1.afuEO/f85neYDX.4kECO
+    Sample:
+      contact: 0708103845
+      email: sample@gmail.com
+      name: Sample Name
+      password: $2b$12$lp5Y6pLiv45/dhVjwKjKKehN.dBtidl.xALw3DpBgTENyTNw4yBsW
+    Simon:
+      email: kanyesigyesimo@gmail.com
+      name: Simon Kanyesigye
+      password: $2b$12$zE8QMt6n3N5ZxrCDA7XjIuQOZl3bUmkBJUBhAPULOGsvDv79PDKK.
+    Yale:
+      contact: 0751329799
+      email: yale@gmail.com
+      name: ibrahim danjuma
+      password: $2b$12$v1ebWkykZxOLbGOde2j6EuWEEfY5JDjJVaojGQA4A0rTmrI81nKpC
+    admin:
+      email: admin1@gmail.com
+      name: System Admin
+      password: $2b$12$xlE0ZQ2OgIWnLJ6aFRGNue9CdZXwb1Iu2h08XK.xOnbDoU.O7vrCC
+    felex:
+      contact: 0782674196
+      email: felex@gmail.com
+      name: mike felex
+      password: $2b$12$YwJs1qcXLx5RErt/5FFK8.TdK/z4gnuiw1rdRBA18tZmIfakOdPCK
+    innox:
+      contact: 0782345678
+      email: innox@gmail.com
+      name: kamu innox
+      password: $2b$12$.qXIz4OFPjbeZenBYZ7YEuBpoGvDnP90vgLSsPgn2mMsR7YwkNK9m
+    joan:
+      contact: 0784378905
+      email: joan@gmail.com
+      name: joan nim
+      password: $2b$12$p6kkQ4jhJPn/pIH/PopiJu/Pz5b9mDGN97sBI18Ev0lwKyJr06Gfa
+    john:
+      contact: 0782694193
+      email: john@gmail.com
+      name: john smith
+      password: $2b$12$kZ/ryYpPteuZWwKGQOL7Ie5cwP2VOMOEX.j0TuOnRgIeM7YOmoq9q
+    max:
+      contact: '0703465234'
+      email: max@gmail.com
+      name: max son
+      password: $2b$12$UlhByrQ54DNtWZFQmcYfDeym8puO7AjdaNms/MSJ//Sx894ys81Fu
+    morris:
+      contact: 0709867543
+      email: morris@gmail.com
+      name: morris kiu
+      password: $2b$12$SPE4859mm4ebNuPC997rXezdERUTjQovyNbVuDmCZ8lp83AzEx4fq
+    simon:
+      contact: 0789674532
+      email: simon@gmail.com
+      name: kanyesigye simon
+      password: $2b$12$0Ef6NGMwODENWOYKXL8sh.9aePuA4ZMjIV7tzrMcxLmeYSCV0085u
+    simon sample:
+      contact: 0702489066
+      email: sample@gmail.com
+      name: simon sample
+      password: $2b$12$j0CUxg4bDUaesQ1W75j.e.vN8sYBoz/bhL8Kzg9kRxXs7lvBKFLyS
+    sk:
+      contact: 0789906743
+      email: tim@gmail.com
+      name: samson tim
+      password: $2b$12$.te1NaDA6lQUdh1bh5esou/x0.ETEUKWoG/y9I/B2LBWWQN.ZiEwm
+    suzan:
+      contact: 0783567854
+      email: suzan@gmail.com
+      name: suzan mike
+      password: $2b$12$a7rbAg416e2V/AnY9DGnMe5OnEpJ.4.ed9M/9Qg/fmDduCwc69a56

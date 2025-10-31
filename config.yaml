@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    user1:
+      name: "Kanyesigye Simon"
+      email: simo@gmail.com
+      password: "$2b$12$MIrT.x4zdIZ2lA/YshhneeVZ/g7n9A8I5D9ANdV5pelVEq./GN556"  # Hashed version of test123
+
+cookie:
+  name: authenticator_cookie
+  key: "b72f3e94689d4b6f95a14c3ab14db0f2"
+  expiry_days: 30
+
+preauthorized:
+  emails: []

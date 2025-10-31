@@ -1,0 +1,9 @@
+streamlit
+streamlit-authenticator
+PyYAML
+tensorflow
+numpy
+pillow
+matplotlib
+bcrypt
+pandas

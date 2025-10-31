@@ -1,0 +1,44 @@
+# credentials:
+#   usernames:
+#     user1:
+#       name: Simon K
+#       password: '$2b$12$KIXwQ9LNKC5sPdeT1R0l0OBjJ3cHYaj7W0m08w8q0Eo5F3znTTcqu'  # 'test123'
+# cookie:
+#   name: auth_cookie
+#   key: "b72f3e94689d4b6f95a14c3ab14db0f2"
+#   expiry_days: 1
+
+
+
+# credentials:
+#   usernames:
+#     ikaru:
+#       name: Simon K
+#       password: '$2b$12$U1pX.Gk6rIM13VtPZc3e7OCAPxjEfxG1S07CUyxw1iK1BhLkaS6yK'  # Password: test123
+#     admin:
+#       name: Admin User
+#       password: '$2b$12$9w78IoJxH0ddQEY9NcOCjOb6OZhBMeLkKX9aP0PGxgiKKK5cN47jG'  # Password: admin123
+
+# cookie:
+#   name: plant_auth_cookie
+#   key: "b72f3e94689d4b6f95a14c3ab14db0f2"
+#   expiry_days: 1
+
+# preauthorized:
+#   emails:
+#     - ikaruhanga182@gmail.com
+#     - admin@desd.com
+
+
+credentials:
+  usernames:
+    user1:
+      # name:"Simon Kanyesigye"
+      email: simo@gmail.com
+      password: "$2b$12$MIrT.x4zdIZ2lA/YshhneeVZ/g7n9A8I5D9ANdV5pelVEq./GN556"  # Hashed version of test123
+
+cookie:
+  name: authenticator_cookie
+  key: "b72f3e94689d4b6f95a14c3ab14db0f2"
+  expiry_days: 30
+
